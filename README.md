@@ -1,7 +1,7 @@
 # google-homepage
 This project is about replicating a Google homepage
 # Built with
-The Google Replica project was built using HTML, CSS and font awesome for different icons
+The Google Replica project was built using HTML, CSS and live server
 # Live Demo
 We as the Authors have added a Live Demo that helps anyone to briefly preview what is in the completed project.
 # Getting Started
