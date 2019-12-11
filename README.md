@@ -11,7 +11,7 @@ Worked with the text editor and an in-built Live Server
 Github:   https://github.com/MotivateJ  
 Twitter:  https://twitter.com/JulieCh46062473  
 LinkedIn: www.linkedin.com/in/julia-wangui  
-Facebook: https://www.facebook.com/juwamu  
+Facebook: https://www.facebook.com/juwamu
 # contributing
 Any contributions, issues and feature requests are welcome!
 Feel free to check the issues page.
